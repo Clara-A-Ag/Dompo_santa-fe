@@ -16,7 +16,7 @@ header {
 }
 
 header .logo h1 {
-    text-align: center;
+    text-align: left;
 }
 .logo img {
     width: 100px; /* o el tamaño que quieras */
